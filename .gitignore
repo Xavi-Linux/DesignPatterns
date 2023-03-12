@@ -2,3 +2,4 @@ env/
 solid_principles/
 specification_pattern.py
 .idea/
+**/materials
